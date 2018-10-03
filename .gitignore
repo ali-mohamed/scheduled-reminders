@@ -33,3 +33,6 @@
 
 # Database Configuration
 /config/database.yml
+
+# RVM Configurations
+.rvmrc
